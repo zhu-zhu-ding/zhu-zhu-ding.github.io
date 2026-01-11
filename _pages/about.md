@@ -29,9 +29,6 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- **CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation**  [[pdf]](https://arxiv.org/abs/2601.02868)  [[code]](https://github.com/zhu-zhu-ding/CodeMem)  
-  **Peiding Wang**, Li Zhang, Fang Liu, Chongyang Tao, Yinghao Zhu  
-  Preprint
 
 - **EfficientEdit: Accelerating Code Editing via Edit-Oriented Speculative Decoding**  [[pdf]](https://arxiv.org/abs/2506.02780) [[code]](https://github.com/zhu-zhu-ding/EfficientEdit)  
   **Peiding Wang**, Li Zhang, Fang Liu, Yinghao Zhu, Wang Xu, Lin Shi, Xiaoli Lian, Minxiao Li, Bo Shen, An Fu  
