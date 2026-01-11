@@ -1,4 +1,4 @@
-# 👋 About me
+
 
 - Hi, I'm Peidng. A 2nd Phd student at Beihang University, and supervised by [Dr. Fang Liu](https://scholar.google.com/citations?hl=zh-CN&user=iqtKptAAAAAJ) and [Dr. Li Zhang](https://scholar.google.com/citations?hl=zh-CN&user=WQuLq0MAAAAJ).
 - My research interest includes efficient code generation, AI for SE.
