@@ -26,17 +26,47 @@ redirect_from:
 - *2025.08*: &nbsp;🎉🎉 Our paper EfficientEdit: Accelerating Code Editing via Edit-Oriented Speculative Decoding has been accepted by ASE’25.. 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
   
+<ul>
+  <li>
+    <strong>Wang P</strong>, Zhang L, Liu F, Tao C, Zhu Y.
+    CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation[P].
+    <em>arXiv preprint arXiv:2601.02868</em>, 2026.
+    <a href="https://arxiv.org/abs/2601.02868">
+      <i class="fa fa-file-pdf"></i>[PDF]
+    </a>
+    <a href="https://github.com/zhu-zhu-ding/CodeMem">
+      <i class="fa fa-code"></i>[Code]
+    </a>
+  </li>
 
-- **EfficientEdit: Accelerating Code Editing via Edit-Oriented Speculative Decoding**  [[pdf]](https://arxiv.org/abs/2506.02780) [[code]](https://github.com/zhu-zhu-ding/EfficientEdit)  
-  **Peiding Wang**, Li Zhang, Fang Liu, Yinghao Zhu, Wang Xu, Lin Shi, Xiaoli Lian, Minxiao Li, Bo Shen, An Fu  
-  *In Proceedings of the 40th IEEE/ACM Automated Software Engineering Conference (ASE’25).*  (**CCF-A**)
+  <li>
+    <strong>Wang P</strong>, Zhang L, Liu F, Zhu Y, Xu W, Shi L, Lian X, Li M, Shen B, Fu A.
+    EfficientEdit: Accelerating Code Editing via Edit-Oriented Speculative Decoding[C]//
+    <em>Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)</em>.
+    IEEE/ACM, 2025. (<strong>CCF-A</strong>)
+    <a href="https://arxiv.org/abs/2506.02780">
+      <i class="fa fa-file-pdf"></i>[PDF]
+    </a>
+    <a href="https://github.com/zhu-zhu-ding/EfficientEdit">
+      <i class="fa fa-code"></i>[Code]
+    </a>
+  </li>
 
-- **CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large Language Models in Interactive Code Generation**  [[pdf]](https://arxiv.org/abs/2503.22688)  [[code]](https://github.com/zhu-zhu-ding/CodeIF-Bench)  
-  **Peiding Wang**, Li Zhang, Fang Liu, Lin Shi, Minxiao Li, Bo Shen, An Fu  
-  Preprint
+  <li>
+    <strong>Wang P</strong>, Zhang L, Liu F, Shi L, Li M, Shen B, Fu A.
+    CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large Language Models in Interactive Code Generation[P].
+    <em>arXiv preprint arXiv:2503.22688</em>, 2025.
+    <a href="https://arxiv.org/abs/2503.22688">
+      <i class="fa fa-file-pdf"></i>[PDF]
+    </a>
+    <a href="https://github.com/zhu-zhu-ding/CodeIF-Bench">
+      <i class="fa fa-code"></i>[Code]
+    </a>
+  </li>
+</ul>
+
+
 
 
 
