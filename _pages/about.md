@@ -9,7 +9,9 @@
 - *2025.08*: &nbsp;🎉🎉 Our paper EfficientEdit: Accelerating Code Editing via Edit-Oriented Speculative Decoding has been accepted by ASE’25.. 
 
 # 📝 Publications 
-
+<div class='paper-box'><div class='paper-box-image'><div></div>
+<div class='paper-box-text' markdown="1">
+ 
 - **CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation**  [[pdf]](https://arxiv.org/abs/2601.02868)  [[code]](https://github.com/zhu-zhu-ding/CodeMem)  
   **Peiding Wang**, Li Zhang, Fang Liu, Chongyang Tao, Yinghao Zhu  
   Preprint
