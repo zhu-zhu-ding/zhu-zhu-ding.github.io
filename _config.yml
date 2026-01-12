@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Peiding Wang (王培丁)"
+title                    : "Peiding Wang"
 description              : "AI for SE, Efficient Code Generation"
 repository               : "zhu-zhu-ding/zhu-zhu-ding.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,8 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Peiding Wang"
-  avatar           : "images/android-chrome-512x512.png"
+  en_name          : "Peiding Wang\n"
+  cn_name          : "(王培丁)"
+  avatar           : "images/photo.jpg"
   bio              : "Beihang University"
   location         : "Beijing, China"
   employer         :
