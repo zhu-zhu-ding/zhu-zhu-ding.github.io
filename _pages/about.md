@@ -30,14 +30,14 @@ redirect_from:
 <h3>Accepted Papers</h3>
 <ul>
   <li>
-    <a href="https://arxiv.org/abs/2506.02780" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://arxiv.org/abs/2506.02780">
     <strong>EfficientEdit: Accelerating Code Editing via Edit-Oriented Speculative Decoding.</strong>
     </a>
     <br><strong>Wang P</strong>, Zhang L, Liu F, Zhu Y, Xu W, Shi L, Lian X, Li M, Shen B, Fu A.
     <br><em>In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (<span style="color:red; font-weight:bold;">ASE’25,CCF-A</span>)</em>.
   </li>
   <li>
-    <a href="https://arxiv.org/abs/2601.02868" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://arxiv.org/abs/2601.02868">
     <strong>CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation.</strong>
     </a>
     <br><strong>Wang P</strong>, Zhang L, Liu F, Tao C, Zhu Y.
@@ -49,7 +49,7 @@ redirect_from:
 <ul>
 
   <li>
-    <a href="https://arxiv.org/abs/2503.22688" target="_blank" style="text-decoration: none; color: inherit;">
+    <a href="https://arxiv.org/abs/2503.22688">
     <strong>CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large Language Models in Interactive Code Generation.</strong>
     </a>
     <br><strong>Wang P</strong>, Zhang L, Liu F, Shi L, Li M, Shen B, Fu A.
