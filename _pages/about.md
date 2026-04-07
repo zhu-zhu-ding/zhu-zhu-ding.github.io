@@ -33,7 +33,6 @@ redirect_from:
     <strong>Wang P</strong>, Zhang L, Liu F, Zhu Y, Xu W, Shi L, Lian X, Li M, Shen B, Fu A.
     EfficientEdit: Accelerating Code Editing via Edit-Oriented Speculative Decoding[C]//
     <em>Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)</em>.
-    IEEE/ACM, 2025.
     (<span style="color:red; font-weight:bold;">CCF-A</span>)
     <a href="https://arxiv.org/abs/2506.02780">
       <i class="fa fa-file-pdf"></i>[PDF]
@@ -45,7 +44,7 @@ redirect_from:
   <li>
     <strong>Wang P</strong>, Zhang L, Liu F, Tao C, Zhu Y.
     CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation.
-    <em>Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL26 Findings)</em>, 2026.
+    <em>Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL26 Findings)</em>.
     <a href="https://arxiv.org/abs/2601.02868">
       <i class="fa fa-file-pdf"></i>[PDF]
     </a>
