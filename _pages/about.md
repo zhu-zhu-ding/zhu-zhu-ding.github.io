@@ -30,26 +30,18 @@ redirect_from:
 <h3>Accepted Papers</h3>
 <ul>
   <li>
-    <strong>Wang P</strong>, Zhang L, Liu F, Zhu Y, Xu W, Shi L, Lian X, Li M, Shen B, Fu A.
-    EfficientEdit: Accelerating Code Editing via Edit-Oriented Speculative Decoding.
-    <em>// In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (<span style="color:red; font-weight:bold;">ASE’25,CCF-A</span>)</em>.
-    <a href="https://arxiv.org/abs/2506.02780">
-      <i class="fa fa-file-pdf"></i>[PDF]
+    <a href="https://arxiv.org/abs/2506.02780" target="_blank" style="text-decoration: none; color: inherit;">
+    <strong>EfficientEdit: Accelerating Code Editing via Edit-Oriented Speculative Decoding.</strong>
     </a>
-    <a href="https://github.com/zhu-zhu-ding/EfficientEdit">
-      <i class="fa fa-code"></i>[Code]
-    </a>
+    <br><strong>Wang P</strong>, Zhang L, Liu F, Zhu Y, Xu W, Shi L, Lian X, Li M, Shen B, Fu A.
+    <br><em>In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (<span style="color:red; font-weight:bold;">ASE’25,CCF-A</span>)</em>.
   </li>
   <li>
-    <strong>Wang P</strong>, Zhang L, Liu F, Tao C, Zhu Y.
-    CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation.
-    <em>// In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (<span style="color:red; font-weight:bold;">ACL’26,Findings</span>)</em>.
-    <a href="https://arxiv.org/abs/2601.02868">
-      <i class="fa fa-file-pdf"></i>[PDF]
+    <a href="https://arxiv.org/abs/2601.02868" target="_blank" style="text-decoration: none; color: inherit;">
+    <strong>CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation.</strong>
     </a>
-    <a href="https://github.com/zhu-zhu-ding/CodeMem">
-      <i class="fa fa-code"></i>[Code]
-    </a>
+    <br><strong>Wang P</strong>, Zhang L, Liu F, Tao C, Zhu Y.
+    <br><em>In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (<span style="color:red; font-weight:bold;">ACL’26,Findings</span>)</em>.
   </li>
 </ul>
 
@@ -57,15 +49,11 @@ redirect_from:
 <ul>
 
   <li>
-    <strong>Wang P</strong>, Zhang L, Liu F, Shi L, Li M, Shen B, Fu A.
-    CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large Language Models in Interactive Code Generation.
-    <em>arXiv preprint arXiv:2503.22688</em>, 2025.
-    <a href="https://arxiv.org/abs/2503.22688">
-      <i class="fa fa-file-pdf"></i>[PDF]
+    <a href="https://arxiv.org/abs/2503.22688" target="_blank" style="text-decoration: none; color: inherit;">
+    <strong>CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large Language Models in Interactive Code Generation.</strong>
     </a>
-    <a href="https://github.com/zhu-zhu-ding/CodeIF-Bench">
-      <i class="fa fa-code"></i>[Code]
-    </a>
+    <br><strong>Wang P</strong>, Zhang L, Liu F, Shi L, Li M, Shen B, Fu A.
+    <br><em>arXiv preprint arXiv:2503.22688</em>
   </li>
 </ul>
 
