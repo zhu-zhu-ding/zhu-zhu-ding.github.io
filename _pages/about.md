@@ -22,7 +22,7 @@ redirect_from:
 - My research interest includes efficient code generation, AI for SE.
 
 # 🔥 News
-
+- *2026.04*: &nbsp;🎉🎉 Our paper CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation has been accepted by ACL’26. 
 - *2025.08*: &nbsp;🎉🎉 Our paper EfficientEdit: Accelerating Code Editing via Edit-Oriented Speculative Decoding has been accepted by ASE’25. 
 
 # 📝 Publications 
@@ -42,14 +42,10 @@ redirect_from:
       <i class="fa fa-code"></i>[Code]
     </a>
   </li>
-</ul>
-
-<h3>Preprints</h3>
-<ul>
   <li>
     <strong>Wang P</strong>, Zhang L, Liu F, Tao C, Zhu Y.
     CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation.
-    <em>arXiv preprint arXiv:2601.02868</em>, 2026.
+    <em>Findings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL26 Findings)</em>, 2026.
     <a href="https://arxiv.org/abs/2601.02868">
       <i class="fa fa-file-pdf"></i>[PDF]
     </a>
@@ -57,6 +53,10 @@ redirect_from:
       <i class="fa fa-code"></i>[Code]
     </a>
   </li>
+</ul>
+
+<h3>Preprints</h3>
+<ul>
 
   <li>
     <strong>Wang P</strong>, Zhang L, Liu F, Shi L, Li M, Shen B, Fu A.
