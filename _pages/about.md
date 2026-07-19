@@ -18,10 +18,20 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About me
-- Hi, I'm Peidng. A 2nd Phd student at Beihang University, and supervised by [Dr. Fang Liu](https://scholar.google.com/citations?hl=zh-CN&user=iqtKptAAAAAJ) and [Dr. Li Zhang](https://scholar.google.com/citations?hl=zh-CN&user=WQuLq0MAAAAJ).
-- My research interest includes efficient code generation, AI for SE.
+
+- Hi, I'm Peidng. A 2nd PhD student at Beihang University, supervised by [Dr. Fang Liu](https://scholar.google.com/citations?hl=zh-CN&user=iqtKptAAAAAJ) and [Dr. Li Zhang](https://scholar.google.com/citations?hl=zh-CN&user=WQuLq0MAAAAJ).
+- My research interests include efficient code generation and AI for SE.
+
+<p>
+My recent research interests focus on 
+<span style="color:red;">
+end-to-end automation of software development, self-evolving coding agents, and AI-native representations of software requirements and design knowledge.
+</span>
+I welcome academic collaborations and discussions on related research topics!
+</p>
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 I have successfully passed my PhD proposal defense and literature review defense!
 - *2026.04*: &nbsp;🎉🎉 Our paper CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation has been accepted by ACL’26. 
 - *2025.08*: &nbsp;🎉🎉 Our paper EfficientEdit: Accelerating Code Editing via Edit-Oriented Speculative Decoding has been accepted by ASE’25. 
 
