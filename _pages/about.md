@@ -31,6 +31,7 @@ I welcome academic collaborations and discussions on related research topics!
 </p>
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 I join the Program Commitee of AAAI 2027!
 - *2026.07*: &nbsp;🎉🎉 I have successfully passed my PhD proposal defense and literature review defense!
 - *2026.04*: &nbsp;🎉🎉 Our paper CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation has been accepted by ACL’26. 
 - *2025.08*: &nbsp;🎉🎉 Our paper EfficientEdit: Accelerating Code Editing via Edit-Oriented Speculative Decoding has been accepted by ASE’25. 
