@@ -58,7 +58,20 @@ I welcome academic collaborations and discussions on related research topics!
 
 <h3>Preprints</h3>
 <ul>
-
+  <li>
+    <a href="http://arxiv.org/abs/2607.26777">
+    <strong>CodeSpec: Dual Executable Specifications for Agentic Long-Horizon Feature Development.</strong>
+    </a>
+    <br><strong>Wang P</strong>, Zhang L, Liu F, Li T, Zhu Y.
+    <br><em>arXiv preprint arXiv:2607.26777</em>
+  </li>
+  <li>
+    <a href="http://arxiv.org/abs/2607.26805">
+    <strong>MRCoder: An Efficient Context Selecting Approach for Repository-Level Code Generation.</strong>
+    </a>
+    <br><strong>Wang P</strong>, Zhang L, Liu F.
+    <br><em>arXiv preprint arXiv:2607.26805</em>
+  </li>
   <li>
     <a href="https://arxiv.org/abs/2503.22688">
     <strong>CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large Language Models in Interactive Code Generation.</strong>
